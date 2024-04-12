@@ -6,3 +6,4 @@ This website is to gain free knowledge.
 Also Wikipedia has a trash UI/UX
 
 The aim is to make a website that provides free knowledge in a way, even little kids can understand.
+It will also be powered by AI for various purposes within itself.
