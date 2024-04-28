@@ -54,6 +54,10 @@ body::-webkit-scrollbar-thumb {
     align-items: center;
 }
 
+.nav-item {
+    width: 100%;
+}
+
 .nav-item:last-child {
     margin-top: auto;
 }
@@ -76,7 +80,7 @@ body::-webkit-scrollbar-thumb {
     margin: 0 1.5rem;
 }
 
-.navbar:hover{
+.navbar:hover {
     width: 16rem;
 }
 
